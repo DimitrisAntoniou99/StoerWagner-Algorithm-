@@ -1,0 +1,14 @@
+------------------------------Section System-Information-----------------------------
+
+
+System: Windows
+Node Name: DESKTOP-OQDUA00
+Release: 10
+Version: 10.0.19044
+Machine: AMD64
+Processor: AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+
+------------------------------Section Results----------------------------------------
+
+
+The Global Max Flow  of  the Graph is : 1005
